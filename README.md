@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 View my projects [here](https://worthyag.github.io/).
+View my jupyter notebooks [here](https://gist.github.com/worthyag/).
+
+- 📫 How to reach me: worthyintech@gmail.com
 
 <!--
 **worthyag/worthyag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
